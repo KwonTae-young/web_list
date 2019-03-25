@@ -1,0 +1,22 @@
+Stack Overflow: https://unix.stackexchange.com/users/86643/donbit?tab=profile  
+NXP Community: https://community.nxp.com/people/xoduddk123@naver.com  
+Microchip Forum: https://unix.stackexchange.com/users/86643/donbit?tab=profile  
+[[etherlab-dev] "Failed to read number of assigned PDOs for SM2" error occurs.](http://lists.etherlab.org/pipermail/etherlab-dev/2017/000603.html)  
+[[etherlab-users] "Slave does not support CoE!" An error occurs.](http://lists.etherlab.org/pipermail/etherlab-users/2017/003206.html)  
+[X11 touch the value of the shivers.](https://lists.x.org/archives/xorg/2016-April/057999.html)  
+[Bug 94918 - Pointer wobbles on absolute touchscreen](https://bugs.freedesktop.org/show_bug.cgi?id=94918)  
+[Can I change the X rotate the xf86-video-fbdev during execution?](https://lists.freedesktop.org/archives/xorg/2016-May/058073.html)  
+[What happens if I load the GPL library using Qt's QPluginLoader?](https://forum.qt.io/topic/83227/what-happens-if-i-load-the-gpl-library-using-qt-s-qpluginloader)  
+['undefined symbol: url_buffed_pos' error in libamplayer.so.](http://lists.infradead.org/pipermail/linux-amlogic/2018-May/007370.html)  
+[How do I increase the max buff size of the scan_result command?](http://lists.infradead.org/pipermail/hostap/2018-December/039106.html)  
+[[OE-core] I get "will not overwrite just-created" error during	hplip upgrade.](http://lists.openembedded.org/pipermail/openembedded-core/2018-June/152320.html)  
+[Builds on yocto will fail (do_install: will not overwrite just-created)](https://bugs.launchpad.net/hplip/+bug/1778612)  
+[3.18.7: compile error occurs (libImageProcessor.so)](https://bugs.launchpad.net/hplip/+bug/1784989)  
+[[yocto] How do I use additional commands in recipe?](https://lists.yoctoproject.org/pipermail/yocto/2018-June/041562.html)  
+[[Toaster] The machine of the added layer does not come out.](https://lists.yoctoproject.org/pipermail/toaster/2017-November/005634.html)  
+[일반터미널 상에서는 emmc에 uboot를 올리지못하나요??](http://www.aesop.or.kr/index.php?mid=Board_Community_QandA&document_srl=119876)  
+[/dev/tty* 의 숫자들을 줄일수 있나요??](http://www.aesop.or.kr/index.php?mid=Board_Community_QandA&document_srl=122529)  
+[Samsung프린터나 Canon 등 다른 제조사의 프린터도 hplip같은것이 있나요?](http://www.aesop.or.kr/index.php?mid=Board_Community_QandA&document_srl=127088)  
+[컴파일을 할때마다 Image랑 zImage용량이 바뀌는건 왜 그런것인가요?](http://www.aesop.or.kr/index.php?mid=Board_Community_QandA&document_srl=127533)  
+[특정 네트워크 인터페이스가 무선인지 유선인지 알수있을까요?](http://www.aesop.or.kr/index.php?mid=Board_Community_QandA&document_srl=127618)  
+[Where does the ODROID-C1's Mali User Space Driver originate?](https://forum.odroid.com/viewtopic.php?f=112&t=25481)  
